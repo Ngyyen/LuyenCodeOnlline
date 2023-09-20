@@ -49,3 +49,4 @@ void Xuat(const vector<int>& vec) {
 		cout << i << endl;
 	}
 }
+// Duy
