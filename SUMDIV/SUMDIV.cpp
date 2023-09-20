@@ -50,3 +50,4 @@ void Xuat(const vector<int>& vec) {
 	}
 }
 // Duy
+// Nguyen
